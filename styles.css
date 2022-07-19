@@ -23,6 +23,8 @@ button{
 }
 /*337ab7*/
 header{
+	top: 0px;
+	position: sticky;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
