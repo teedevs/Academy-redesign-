@@ -21,13 +21,18 @@ button{
 	color:#ffffff;
 	text-decoration: none;
 }
+
+
+
 /*337ab7*/
 header{
+	top: 0px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 30px 10%;
-
+	padding: 5px 10%;
+	position: sticky;
+	z-index: 1;
 }
 
 .logo{
@@ -88,8 +93,27 @@ button:hover{
 .cta{
 	order: 2;
 }
-
+.heroImage{
+	padding: 30px;
+	background-color: transparent;
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	color: white;
+	text-align: center;
+}
+.heroImage h1{
+	font-size: 130px;
+	background-color: transparent;
+}
+.heroImage h3{
+	font-size: 30px;
+	padding: 30px;
+	background-color: transparent;
+	
+}
 .cover{
+	position: relative;
 	background: url('img/headway-5QgIuuBxKwM-unsplash.jpg') center;
 	background-size: cover;
 	background-color: rgba(0,0,0,0.75);
