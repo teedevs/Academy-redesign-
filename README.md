@@ -37,10 +37,13 @@
     <h1>CONTRIBUTERS ✨<h/>
       </div>
       <div>
-        <a href="https://github.com/chris13-afk">Christopher Brown</a>
-        <a href="https://github.com/thekingtez">Cortez Wiley</a>
-        <a href="https://github.com/Alonso9825">Diego Soto</a>
-        <a href="https://github.com/teedevs">Teundra Varnes Williams</a>
+       👨🏾 <a href="https://github.com/chris13-afk">Christopher Brown</a>
+         <br>
+       👨🏾 <a href="https://github.com/thekingtez">Cortez Wiley</a>
+         <br>
+       👨🏽 <a href="https://github.com/Alonso9825">Diego Soto</a>
+         <br>
+       👩🏾  <a href="https://github.com/teedevs">Teundra Varnes Williams</a>
     </div>
     
    
