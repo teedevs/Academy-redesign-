@@ -41,7 +41,7 @@
          <br>
        👨🏾 <a href="https://github.com/thekingtez">Cortez Wiley</a>
          <br>
-         🏼👨🏽 <a href="https://github.com/Alonso9825">Diego Soto</a>
+       👨🏽 <a href="https://github.com/Alonso9825">Diego Soto</a>
          <br>
        👩🏾  <a href="https://github.com/teedevs">Teundra Varnes Williams</a>
     </div>
