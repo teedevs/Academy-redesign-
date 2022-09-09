@@ -80,10 +80,12 @@ nav{
 	
 }
 .nav__links li{
-	display: flex;
-	justify-content: space-evenly;
-	padding:  0px 20px;
-	margin-left: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 
 .nav__links li a {
