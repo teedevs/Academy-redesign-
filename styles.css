@@ -80,7 +80,7 @@ nav{
 	
 }
 .nav__links li{
-    display: block;
+    display:inline-block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
